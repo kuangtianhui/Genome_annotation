@@ -1,2 +1,2 @@
-# tao-script.py
-a collections of scripts to handle genomic-genetic-phylogenytic challenges
+# rheum scripts
+a collection of scripts to handle genomic-genetic-phylogenytic challenges
