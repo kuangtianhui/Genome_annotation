@@ -1,2 +1,2 @@
-# rheum scripts
-a collection of scripts to handle genomics/phylogenomics challenges
+# scripts for rheum genome project
+a collection of custom scripts to handle genomic/phylogenomic challenges
